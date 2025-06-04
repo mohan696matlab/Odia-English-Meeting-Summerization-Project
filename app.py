@@ -4,9 +4,6 @@ import gradio as gr
 from dotenv import load_dotenv
 import requests
 from pydub import AudioSegment
-from pydub.utils import which
-
-AudioSegment.converter = which("bin/ffmpeg")
 
 os.makedirs('cache',exist_ok=True)
 # Load environment variables
