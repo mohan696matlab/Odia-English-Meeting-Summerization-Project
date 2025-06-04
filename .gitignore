@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Media Files
+long_odia_audio.mp3
+
 # C extensions
 *.so
 
