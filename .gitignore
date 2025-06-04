@@ -5,7 +5,8 @@ __pycache__/
 
 # Media Files
 long_odia_audio.mp3
-
+short_odia_audio.mp3
+cache
 # C extensions
 *.so
 
